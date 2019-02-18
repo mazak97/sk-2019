@@ -6,7 +6,7 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | centos 7 |
+| nazwa      | linux | Lubuntu |
 | program (parametry sieci)      | niewiem |  |
 
 
@@ -15,8 +15,8 @@ Konfiguracja połączenia sieciowego
 
 | Parametr | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| Adres IP      | XX.XX.XX.XX | przydzielony przez DHCP |
-| Maska podsieci      |  |  |
+| Adres IP      | 10.0.2.15 | przydzielony przez DHCP |
+| Maska podsieci    255.255.255.0  |  |  |
 | Brama      |  |  |
 | DNS 1      |  |  |
 | DNS 2      |  |  |
